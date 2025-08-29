@@ -62,14 +62,7 @@
 
 ---
 
-## 📊 GitHub Stats  
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Nabihaakhtar&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Nabihaakhtar&theme=dracula&column=4&margin-w=15&margin-h=15" height="150" alt="trophy graph"  />
-</div>
-
----
 
 ## 🌐 Connect with Me  
 
@@ -77,25 +70,8 @@
   <a href="https://www.linkedin.com/in/nabihaakhtar" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30"/>
   </a>
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="30"/>
-  </a>
-  <a href="https://discord.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="30"/>
-  </a>
-  <a href="https://dev.to/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&style=for-the-badge" height="30"/>
-  </a>
 </div>
 
 ---
 
-## 🐍 Contribution Graph  
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nabihaakhtar/Nabihaakhtar/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nabihaakhtar/Nabihaakhtar/output/github-contribution-grid-snake.svg">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/Nabihaakhtar/Nabihaakhtar/output/github-contribution-grid-snake.svg">
-</picture>
-
----
