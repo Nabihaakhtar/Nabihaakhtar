@@ -67,10 +67,11 @@
 ## 🌐 Connect with Me  
 
 <div align="center">
-  <a href="www.linkedin.com/in/nabiha-akhtar" target="_blank">
+  <a href="https://www.linkedin.com/in/nabiha-akhtar" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30"/>
   </a>
 </div>
+
 
 ---
 
